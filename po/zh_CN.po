@@ -652,7 +652,7 @@ msgstr "http://"
 
 #: ../src/abstractadddistro.cpp:262
 msgid "left"
-msgstr "右"
+msgstr "剩余"
 
 #: ../src/mainwindow.cpp:476
 msgid ""
